@@ -1,0 +1,7 @@
+spec:
+ name: color-game
+ static_sites:
+ - git:
+     branch: main
+     repo_clone_url: https://github.com/bo-iliev/color-game.git
+   name: color-game
