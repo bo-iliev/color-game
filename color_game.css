@@ -21,7 +21,7 @@ body {
 	max-width: 600px;
 }
 
-h1 {
+h1, h2 {
 	color: white;
 	text-align: center;
 	line-height: 1.1;
