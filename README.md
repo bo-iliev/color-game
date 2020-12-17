@@ -1,4 +1,4 @@
-# Fun Color Game Porject
+# Fun Color Game Project
 
 ![Game Screenshot](https://imgur.com/6lTZOeU.png)
 
