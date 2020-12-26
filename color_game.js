@@ -5,6 +5,7 @@ var squares = document.querySelectorAll(".square");
 var colorDisplay = document.getElementById("colorDisplay");
 var messageDisplay = document.querySelector("#message");
 var h1 = document.querySelector("h1");
+var h2 = document.querySelector("h2");
 var resetButton = document.querySelector("#reset");
 var modeButtons = document.querySelectorAll(".mode");
 
@@ -64,6 +65,7 @@ function reset() {
 		}
 	}
 	h1.style.backgroundColor = "steelBlue";
+	h2.style.backgroundColor = "steelBlue";
 }
 
 // easyBtn.addEventListener("click", function(){
