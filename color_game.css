@@ -4,6 +4,10 @@ body {
 	font-family: "Arial Black", Gadget, sans-serif;
 }
 
+#twitter {
+	color: white;
+}
+
 .square {
 	width: 30%;
 	background-color: purple;
